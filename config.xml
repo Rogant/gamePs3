@@ -17,8 +17,8 @@
         Andres Vargass 
     </author>
 
-    <plugin name="Globalization" value="org.apache.cordova.Globalization" />
-
     <preference name="phonegap-version" value="2.9.0" />
+    <preference name="orientation" value="landscape" />
+    <preference name="fullscreen" value="true" />
 
 </widget>
